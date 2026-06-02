@@ -1,9 +1,9 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
+<H3 ALIGN=LEFT> DATE:<H3>
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name: Kavipriya SP
+### Register Number: 2305002011
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -133,6 +133,21 @@ print(query_result)
 ```
 ---
 ## Output:
+
+```
+Bayesian Network Structure
+DiscreteBayesianNetwork with 5 nodes and 4 edges
+```
+<img width="751" height="574" alt="image" src="https://github.com/user-attachments/assets/a6aa5338-b2d6-4e70-9683-f3c50e7c5729" />
+
+
+```
+Approximate probabilities of Burglary:
+Burglary
+0    0.9992
+1    0.0008
+Name: proportion, dtype: float64
+```
 
 
 ---
