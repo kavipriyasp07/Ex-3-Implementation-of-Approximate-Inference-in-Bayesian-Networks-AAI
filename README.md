@@ -153,4 +153,4 @@ Name: proportion, dtype: float64
 ---
 
 ## Result:
-Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
+Thus, Gibb's Sampling( Approximate Inference method is succuessfully implemented using python.
